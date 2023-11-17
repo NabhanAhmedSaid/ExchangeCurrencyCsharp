@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7QkOyUnE3ioE+uttks8ytmC3rHwulnOYKyrmRdI4mvI7DNOCkO+CMgXhhYbcHcNTcLi/lYCyzIAGg2eLbl3nfg==",
+  "success": true,
+  "projectFilePath": "/home/kali/Desktop/newC/newC.csproj",
+  "expectedPackageFiles": [
+    "/home/kali/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/kali/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
